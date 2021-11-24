@@ -1,0 +1,4 @@
+desk,20
+monitor,80
+chair,50
+lamp,30
